@@ -1,0 +1,339 @@
+2024-12-07 18:40:45,781 - INFO - Starting candidate data processing.
+2024-12-07 18:40:45,781 - INFO - Starting candidate data processing.
+2024-12-07 18:40:45,781 - INFO - Starting candidate data processing.
+2024-12-07 18:40:45,781 - INFO - Starting candidate data processing.
+2024-12-07 18:40:47,348 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:40:47,348 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:40:47,348 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:40:47,348 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:40:47,353 - INFO - Processing candidate : Clark L Kent
+2024-12-07 18:40:47,353 - INFO - Processing candidate : Clark L Kent
+2024-12-07 18:40:47,353 - INFO - Processing candidate : Clark L Kent
+2024-12-07 18:40:47,353 - INFO - Processing candidate : Clark L Kent
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 18:40:47,360 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 18:40:47,360 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 18:40:47,360 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 18:40:47,360 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Peter Parker
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Peter Parker
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Peter Parker
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Peter Parker
+2024-12-07 18:40:47,361 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,361 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,361 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,361 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Walter White
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Walter White
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Walter White
+2024-12-07 18:40:47,361 - INFO - Processing candidate : Walter White
+2024-12-07 18:40:47,362 - INFO - Report saved to output_report.json
+2024-12-07 18:40:47,362 - INFO - Report saved to output_report.json
+2024-12-07 18:40:47,362 - INFO - Report saved to output_report.json
+2024-12-07 18:40:47,362 - INFO - Report saved to output_report.json
+2024-12-07 18:40:47,362 - INFO - candidate data processing completed successfully.
+2024-12-07 18:40:47,362 - INFO - candidate data processing completed successfully.
+2024-12-07 18:40:47,362 - INFO - candidate data processing completed successfully.
+2024-12-07 18:40:47,362 - INFO - candidate data processing completed successfully.
+2024-12-07 18:51:52,167 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:51:52,167 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:51:52,167 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:51:52,167 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:51:52,173 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:51:52,173 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:51:52,173 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:51:52,173 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:51:52,173 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:51:52,173 - WARNING - No candidates found.
+2024-12-07 18:51:52,173 - WARNING - No candidates found.
+2024-12-07 18:51:52,173 - WARNING - No candidates found.
+2024-12-07 18:51:52,173 - WARNING - No candidates found.
+2024-12-07 18:51:52,173 - WARNING - No candidates found.
+2024-12-07 18:53:15,754 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:53:15,754 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:53:15,754 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:53:15,754 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:53:15,761 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:53:15,761 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:53:15,761 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:53:15,761 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:53:15,761 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:53:15,761 - WARNING - No candidates found.
+2024-12-07 18:53:15,761 - WARNING - No candidates found.
+2024-12-07 18:53:15,761 - WARNING - No candidates found.
+2024-12-07 18:53:15,761 - WARNING - No candidates found.
+2024-12-07 18:53:15,761 - WARNING - No candidates found.
+2024-12-07 18:56:11,409 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:56:11,409 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:56:11,409 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:56:11,409 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 18:56:11,416 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:56:11,416 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:56:11,416 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:56:11,416 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:56:11,416 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 18:56:11,416 - WARNING - No candidates found.
+2024-12-07 18:56:11,416 - WARNING - No candidates found.
+2024-12-07 18:56:11,416 - WARNING - No candidates found.
+2024-12-07 18:56:11,416 - WARNING - No candidates found.
+2024-12-07 18:56:11,416 - WARNING - No candidates found.
+2024-12-07 19:21:07,625 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:21:07,625 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:21:07,625 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:21:07,625 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:21:07,631 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:21:07,631 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:21:07,631 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:21:07,631 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:21:07,631 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:21:07,633 - WARNING - No candidates found.
+2024-12-07 19:21:07,633 - WARNING - No candidates found.
+2024-12-07 19:21:07,633 - WARNING - No candidates found.
+2024-12-07 19:21:07,633 - WARNING - No candidates found.
+2024-12-07 19:21:07,633 - WARNING - No candidates found.
+2024-12-07 19:23:12,670 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:23:12,670 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:23:12,670 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:23:12,670 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:23:12,678 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:23:12,678 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:23:12,678 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:23:12,678 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:23:12,678 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:23:12,679 - WARNING - No candidates found.
+2024-12-07 19:23:12,679 - WARNING - No candidates found.
+2024-12-07 19:23:12,679 - WARNING - No candidates found.
+2024-12-07 19:23:12,679 - WARNING - No candidates found.
+2024-12-07 19:23:12,679 - WARNING - No candidates found.
+2024-12-07 19:25:35,244 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:25:35,244 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:25:35,244 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:25:35,244 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:25:35,252 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:25:35,252 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:25:35,252 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:25:35,252 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:25:35,252 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:25:35,253 - WARNING - No candidates found.
+2024-12-07 19:25:35,253 - WARNING - No candidates found.
+2024-12-07 19:25:35,253 - WARNING - No candidates found.
+2024-12-07 19:25:35,253 - WARNING - No candidates found.
+2024-12-07 19:25:35,253 - WARNING - No candidates found.
+2024-12-07 19:28:07,495 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:28:07,495 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:28:07,495 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:28:07,495 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:28:07,497 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:28:07,497 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:28:07,497 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:28:07,497 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:28:07,497 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:28:07,501 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:28:07,501 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:28:07,501 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:28:07,501 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:28:07,501 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:32:32,772 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:32:32,772 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:32:32,772 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:32:32,772 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:32:32,790 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:32:32,790 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:32:32,790 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:32:32,790 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:32:32,790 - INFO - Inserted 2 selected candidates into MongoDB
+2024-12-07 19:40:40,807 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:40:40,807 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:40:40,807 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:40:40,807 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:40:40,811 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:40:40,811 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:40:40,811 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:40:40,811 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:40:40,811 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:40:40,817 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:40:40,817 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:40:40,817 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:40:40,817 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:40:40,817 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:41:46,955 - INFO - Starting candidate data processing.
+2024-12-07 19:41:46,955 - INFO - Starting candidate data processing.
+2024-12-07 19:41:46,955 - INFO - Starting candidate data processing.
+2024-12-07 19:41:46,955 - INFO - Starting candidate data processing.
+2024-12-07 19:41:48,579 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:41:48,579 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:41:48,579 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:41:48,579 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:41:48,585 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:41:48,585 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:41:48,585 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:41:48,585 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:41:48,589 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,589 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,589 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,589 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:41:48,590 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:41:48,591 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,591 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,591 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,591 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:41:48,591 - INFO - Processing candidate : Walter White
+2024-12-07 19:41:48,591 - INFO - Processing candidate : Walter White
+2024-12-07 19:41:48,591 - INFO - Processing candidate : Walter White
+2024-12-07 19:41:48,591 - INFO - Processing candidate : Walter White
+2024-12-07 19:41:48,591 - INFO - Report saved to output_report.json
+2024-12-07 19:41:48,591 - INFO - Report saved to output_report.json
+2024-12-07 19:41:48,591 - INFO - Report saved to output_report.json
+2024-12-07 19:41:48,591 - INFO - Report saved to output_report.json
+2024-12-07 19:41:48,592 - INFO - candidate data processing completed successfully.
+2024-12-07 19:41:48,592 - INFO - candidate data processing completed successfully.
+2024-12-07 19:41:48,592 - INFO - candidate data processing completed successfully.
+2024-12-07 19:41:48,592 - INFO - candidate data processing completed successfully.
+2024-12-07 19:42:35,557 - INFO - Starting candidate data processing.
+2024-12-07 19:42:35,557 - INFO - Starting candidate data processing.
+2024-12-07 19:42:35,557 - INFO - Starting candidate data processing.
+2024-12-07 19:42:35,557 - INFO - Starting candidate data processing.
+2024-12-07 19:42:37,106 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:42:37,106 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:42:37,106 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:42:37,106 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:42:37,111 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:42:37,111 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:42:37,111 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:42:37,111 - INFO - Processing candidate : Clark L Kent
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,115 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Peter Parker
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Walter White
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Walter White
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Walter White
+2024-12-07 19:42:37,116 - INFO - Processing candidate : Walter White
+2024-12-07 19:42:37,117 - INFO - Report saved to output_report.json
+2024-12-07 19:42:37,117 - INFO - Report saved to output_report.json
+2024-12-07 19:42:37,117 - INFO - Report saved to output_report.json
+2024-12-07 19:42:37,117 - INFO - Report saved to output_report.json
+2024-12-07 19:42:37,117 - INFO - candidate data processing completed successfully.
+2024-12-07 19:42:37,117 - INFO - candidate data processing completed successfully.
+2024-12-07 19:42:37,117 - INFO - candidate data processing completed successfully.
+2024-12-07 19:42:37,117 - INFO - candidate data processing completed successfully.
+2024-12-07 19:43:39,930 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:43:39,930 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:43:39,930 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:43:39,930 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 19:43:39,936 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:43:39,936 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:43:39,936 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:43:39,936 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:43:39,936 - ERROR - Unexpected error in industry_filter: argument of type 'NoneType' is not iterable
+2024-12-07 19:43:39,945 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:43:39,945 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:43:39,945 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:43:39,945 - INFO - Inserted 1 selected candidates into MongoDB
+2024-12-07 19:43:39,945 - INFO - Inserted 1 selected candidates into MongoDB
