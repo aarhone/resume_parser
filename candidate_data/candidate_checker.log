@@ -1,0 +1,136 @@
+2024-12-07 16:01:22,499 - INFO - Starting candidate data processing.
+2024-12-07 16:01:22,499 - INFO - Starting candidate data processing.
+2024-12-07 16:01:22,499 - INFO - Starting candidate data processing.
+2024-12-07 16:01:22,499 - INFO - Starting candidate data processing.
+2024-12-07 16:01:24,775 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:01:24,775 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:01:24,775 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:01:24,775 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:01:24,776 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:01:24,776 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:01:24,776 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:01:24,776 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:01:24,779 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,779 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:01:24,780 - INFO - Processing candidate : Walter White
+2024-12-07 16:01:24,780 - INFO - Processing candidate : Walter White
+2024-12-07 16:01:24,780 - INFO - Processing candidate : Walter White
+2024-12-07 16:01:24,780 - INFO - Processing candidate : Walter White
+2024-12-07 16:01:24,780 - INFO - Report saved to output_report.json
+2024-12-07 16:01:24,780 - INFO - Report saved to output_report.json
+2024-12-07 16:01:24,780 - INFO - Report saved to output_report.json
+2024-12-07 16:01:24,780 - INFO - Report saved to output_report.json
+2024-12-07 16:01:24,780 - INFO - candidate data processing completed successfully.
+2024-12-07 16:01:24,780 - INFO - candidate data processing completed successfully.
+2024-12-07 16:01:24,780 - INFO - candidate data processing completed successfully.
+2024-12-07 16:01:24,780 - INFO - candidate data processing completed successfully.
+2024-12-07 16:51:12,223 - INFO - Starting candidate data processing.
+2024-12-07 16:51:12,223 - INFO - Starting candidate data processing.
+2024-12-07 16:51:12,223 - INFO - Starting candidate data processing.
+2024-12-07 16:51:12,223 - INFO - Starting candidate data processing.
+2024-12-07 16:51:14,543 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:51:14,543 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:51:14,543 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:51:14,543 - INFO - Data fetched successfully from https://hs-recruiting-test-resume-data.s3.amazonaws.com/allcands-full-api_hub_b1f6-acde48001122.json
+2024-12-07 16:51:14,548 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:51:14,548 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:51:14,548 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:51:14,548 - INFO - Processing candidate : Clark L Kent
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 366 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,553 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:51:14,553 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:51:14,553 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:51:14,553 - INFO - Processing candidate : Bruce Wayne
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 125 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 69 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Peter Parker
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Gap in CV for 1 days found between jobs.
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Walter White
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Walter White
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Walter White
+2024-12-07 16:51:14,554 - INFO - Processing candidate : Walter White
+2024-12-07 16:51:14,555 - INFO - Report saved to output_report.json
+2024-12-07 16:51:14,555 - INFO - Report saved to output_report.json
+2024-12-07 16:51:14,555 - INFO - Report saved to output_report.json
+2024-12-07 16:51:14,555 - INFO - Report saved to output_report.json
+2024-12-07 16:51:14,555 - INFO - candidate data processing completed successfully.
+2024-12-07 16:51:14,555 - INFO - candidate data processing completed successfully.
+2024-12-07 16:51:14,555 - INFO - candidate data processing completed successfully.
+2024-12-07 16:51:14,555 - INFO - candidate data processing completed successfully.
